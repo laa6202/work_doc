@@ -1,0 +1,28 @@
+Network Code: XX
+Station Code: XFJ
+AuxId: 00
+Station Type: 3C
+Channel Comp: 3
+Channel Code: SHE
+Station Lat : 23.728599548339844
+Station Lon : 114.6592025756836
+Coordinate Sys: WGS-84
+Instrument Type: FSS-3
+H Ang: 90.0
+V Ang: 90.0
+Sample Rate: 50.0
+Calib Factor: 80.61150360107422
+Calper: 1.0
+Scale Factor: 3534.8
+Zero : 
+ 0.0+j0.0
+ 0.0+j0.0
+ -144.329+j0.0
+Pole : 
+ -3.225+j3.124
+ -3.225+j-3.124
+ -3140.299+j0.0
+ -142.857+j0.0
+START_TIME :
+20000212190236
+Length of Event: 120.0 <sec>
